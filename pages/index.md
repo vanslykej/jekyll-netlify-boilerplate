@@ -1,12 +1,9 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to See Our Planet!
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Choose a country from the list and learn more about the countless destinations
+  you can explore around the world!
 ---
