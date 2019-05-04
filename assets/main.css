@@ -388,7 +388,7 @@ figure+figure {
 }
 p.intro {
  font-size:2.4rem;
- color:#8e8e8e;
+ color:#282828;
  padding-bottom:4rem
 }
 @media screen and (min-width: 768px) {
@@ -438,6 +438,10 @@ a:active {
 header>h1 {
  line-height:1.5;
  font-weight:300
+}
+header>h1 {
+  font-size:2.0rem;
+  font-weight:500;
 }
 @media screen and (min-width: 768px) {
  header>h1 {
